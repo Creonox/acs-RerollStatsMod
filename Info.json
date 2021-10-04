@@ -1,0 +1,11 @@
+﻿{
+	"Name":"rerollstatsmod",		
+	"DisplayName":"RerollMOD",
+	"Desc":"RerollMOD. Reroll until you get what you are looking for.",
+	"UIPackage":"UI/RerollMenu",
+	"GameVersion":1.208,	
+	"Version":1,			
+	"Author":"Nizu",			
+	"Sort":"99999",		
+	"IncreasedDesc":"[v1] - initial Release"	
+}
